@@ -2,7 +2,7 @@
     "scripts": {
         "release": "semantic-release"
     },
-    "name": "software-portfolio",
+    "name": "aaronginder",
     "version": "1.0.0",
     "description": "Personal software portfolio for Aaron Ginder",
     "main": "index.js",
