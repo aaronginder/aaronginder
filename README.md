@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h7 align="center">A passionate software engineer who loves to build new capabilities for like-minded professionals.
 
-🧑🏻‍💻 I currently work as a lead software engineer in the telecommunications industry. My expertise is in data engineering, SRE and devops in Google Cloud Platform and experience in AWS.
+🧑🏻‍💻 I currently work as a lead software engineer in the finance industry. My expertise is in data engineering, software engineering, SRE and devops in Google Cloud Platform and AWS.
 
 🏆 I have a level 5 management & leadership qualification from the Chartered Management Institute and I am a certified Google Cloud Data Engineer & Digital Leader.
 
